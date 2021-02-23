@@ -13,7 +13,7 @@
 6. Графическое приложение для игры в ["Чепуху"](https://play-plan.ru/games/v-puteshestvii/chepukha/)
 7. Цветная карта, отображающая [рейтинг счастья](https://www.kaggle.com/unsdsn/world-happiness?select=2019.csv) по странам и годам
 8. Сетевое приложение для внесения и отслеживания трудозатрат работником
-9. Нахождение максимума кругового параболойда из любой точки методом [градиентого спуска](https://neurohive.io/ru/osnovy-data-science/gradient-descent/)
+9. Нахождение максимума параболоида из любой точки методом [градиентого спуска](https://neurohive.io/ru/osnovy-data-science/gradient-descent/)
 10. Реализовать панель управления для робота-манипулятора на [three.js](https://threejs.org/examples/#webgl_loader_collada_kinematics) *
 11. Ваши темы...
 
