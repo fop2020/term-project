@@ -18,7 +18,8 @@
 11. [Дедлайнер](https://github.com/NestoR-afk/DeadLiner) (Захаров Ярослав, Дулькин Илья, Ширяев Антон, Бойцов Михаил)
 12. Автоматический мониторинг сайтов и отправка уведомлений об этих сайтах в [telegram](https://github.com/KarinaLesha/projectprogramming-2021)(Карина Залялутдинова, Алексей Златоустов)
 13. Бот в telegram для изучения английского(Лев Есаулов, Карагаев Валерий, Титова Екатерина, Олейник Александр, Пеева Софья)
-14. Ваши темы...
+14. Research on human-machine interaction by image processing through the game Stay away from COVID (https://github.com/letrongminh/Demo-race-game) ( Ле Чонг Минь, Илья Мохов, R3181 )
+15. Ваши темы...
 
 ### Требования
 | Требование | :-1: | :+1: |
